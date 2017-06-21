@@ -13,4 +13,4 @@ Conscious that there was probably a lot I’d missed I asked on Twitter for sugg
 
 ![pic of tweet](/ihavealistifyouneedone.png)
 
-The reading list itself is [here](http://github.com/paulmaltby3/digitalpolicyreadinglist/Digitalpolicyreadinglist.odt)
+The reading list itself is [here](https://github.com/paulmaltby3/digitalpolicyreadinglist/blob/master/Digitalpolicyreadinglist.odt)

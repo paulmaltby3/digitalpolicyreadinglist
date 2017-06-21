@@ -13,4 +13,4 @@ Conscious that there was probably a lot I’d missed I asked on Twitter for sugg
 
 ![pic of tweet](/ihavealistifyouneedone.png)
 
-You can download the reading list from GitHub [here](https://github.com/paulmaltby3/digitalpolicyreadinglist/blob/master/Digitalpolicyreadinglist.odt)
+You can download the reading list from GitHub [here](https://github.com/paulmaltby3/digitalpolicyreadinglist/raw/master/Digitalpolicyreadinglist.odt)

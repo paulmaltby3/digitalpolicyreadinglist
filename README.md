@@ -10,3 +10,4 @@ We are planning an (oversubscribed) unconference on 29 June, but you can sign up
 Some of us who started off in the policy profession like to dig deeper and understand where all this started and how it has evolved, and based on my own experience I started to put together a short reading list for the event aimed at policy colleagues, with what I considered some of the important written pieces about the internet era:
 
 Conscious that there was probably a lot I’d missed I asked on Twitter for suggestions, and as is so often the case, the internet responded with enthusiasm. And, fabulously and perhaps inevitably, it was pointed out that asking for a reading list was *so policy*.
+![pic of tweet](/ihavealistifyouneedone.png)

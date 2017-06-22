@@ -1,5 +1,4 @@
-# digitalpolicyreadinglist
-**A reading list for government policy people interested in digital** 
+# A reading list for government policy people interested in digital
 
 [(Skip straight to the list)](https://github.com/paulmaltby3/digitalpolicyreadinglist/blob/master/Digitalpolicyreadinglist.md)
 

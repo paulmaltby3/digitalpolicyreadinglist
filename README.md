@@ -1,7 +1,7 @@
 # digitalpolicyreadinglist
 **A reading list for government policy people interested in digital** 
 
-[Skip straight to list](https://github.com/paulmaltby3/digitalpolicyreadinglist/blob/master/Digitalpolicyreadinglist.md)
+[Skip straight to the list](https://github.com/paulmaltby3/digitalpolicyreadinglist/blob/master/Digitalpolicyreadinglist.md)
 
 A number of us that bridge the digital and policy communities in and around government have come together to talk about making government in the UK more effective by working together under the banner of ['one team government'](http://oneteamgov.uk/). 
 

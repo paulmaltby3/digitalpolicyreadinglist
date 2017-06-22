@@ -14,4 +14,6 @@ Conscious that there was probably a lot I’d missed [I asked on Twitter](https:
 
 ![pic of tweet burn](/ihavealistifyouneedone.png)
 
-You can see and amend the reading list from GitHub [here](https://paulmaltby3.github.io/digitalpolicyreadinglist/Digitalpolicyreadinglist)
+You can view the reading list on [GitHub](https://paulmaltby3.github.io/digitalpolicyreadinglist/Digitalpolicyreadinglist).
+
+You can also update the reading list from [GitHub](https://github.com/paulmaltby3/digitalpolicyreadinglist).

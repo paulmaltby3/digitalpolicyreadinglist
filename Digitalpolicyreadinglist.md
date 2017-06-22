@@ -28,11 +28,11 @@ The additional suggestions [I received from Twitter](https://twitter.com/maltbyp
 * [Play Anything: The Pleasure of Limits, the Uses of Boredom, and the Secret of Games](https://www.amazon.com/Play-Anything-Pleasure-Limits-Boredom/dp/0465051723), by [Ian Bogost](https://twitter.com/ibogost). Via [Nati Carfi](https://twitter.com/naticarfi)
 
 **Government digital**
-* [Policy Making in a Digital Age](https://t.co/CjDowtifBU), by [Jennifer Pahlka](https://twitter.com/pahlkadot). Via [Honey Dacanay](https://twitter.com/honeygolightly)
+* [Policy Making in a Digital Age](https://medium.com/code-for-america/beyond-tech-policymaking-in-a-digital-age-2776b9a17b69), by [Jennifer Pahlka](https://twitter.com/pahlkadot). Via [Honey Dacanay](https://twitter.com/honeygolightly)
 * [Can you recognise the million pound chair?](https://www.mysociety.org/2012/06/19/can-you-recognize-the-million-pound-chair/) by [Tom Steinberg](https://twitter.com/steiny), 2012. Via [Richard Pope](https://twitter.com/richardjpope)
-* [Digital government: not complicated, just hard](https://t.co/yPmHzO4hCX), YouTube video by [Tom Loosemore](https://twitter.com/tomskitomski). [Via Richard Barton](https://twitter.com/CIOPortfolio)
+* [Digital government: not complicated, just hard](https://www.youtube.com/watch?v=YTJTiVL2oQ8), YouTube video by [Tom Loosemore](https://twitter.com/tomskitomski). [Via Richard Barton](https://twitter.com/CIOPortfolio)
 * [How Boston's tech squad saved the city from its annual moving day nightmare](https://www.wired.com/2015/12/how-bostons-tech-squad-saved-the-city-from-its-annual-moving-day-nightmare/), by [Susan Crawford](https://twitter.com/scrawford), 2015. Via [Andrew Schrock](https://twitter.com/aschrock)
-* [Boiling Frogs](https://t.co/aT8vTTZDtK), by [GCHQ](https://twitter.com/GCHQ). Via [Ross Ferguson](https://twitter.com/rossferg)
+* [Boiling Frogs](https://github.com/gchq/BoilingFrogs), by [GCHQ](https://twitter.com/GCHQ). Via [Ross Ferguson](https://twitter.com/rossferg)
 * [Tim O'Reilly on the Code Red Time magazine article by Steve Brill.](https://www.linkedin.com/pulse/20140325160616-16553--they-have-no-use-for-someone-who-looks-and-dresses-like-me) Via [Honey Dacanay](https://twitter.com/honeygolightly)
 * [Teaching digital at the Kennedy School of Government: a road map](https://medium.com/digitalhks/teaching-digital-at-the-kennedy-school-of-government-a-road-map-5ef3e847c8a8), by [David Eaves](https://twitter.com/daeaves)
 * [The Responsive City: Engaging Communities Through Data-Smart Governance](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118910907.html) [Stephen Goldsmith](https://twitter.com/GoldsmithOnGov) and [Susan Crawford](https://twitter.com/scrawford), 2014. Via [Andrew Schrock](https://twitter.com/aschrock)
@@ -45,7 +45,7 @@ The additional suggestions [I received from Twitter](https://twitter.com/maltbyp
 * [Five for Friday](https://da.vebrig.gs/category/links/), blog by [Dave Briggs](https://twitter.com/davebriggs)
 * [Rise of the Robots: Technology and the threat of mass unemployment](https://www.amazon.co.uk/dp/B01DRYIS4K/ref%3Ddp-kindle-redirect?_encoding%3DUTF8%26btkr%3D1), by [Martin Ford](https://twitter.com/MFordFuture); Via [Stefan Webb](https://twitter.com/Stef_W)
 * [The Code Book: a secret history of codes and codebreaking](https://www.amazon.co.uk/dp/B003VWDOK2/ref%3Ddp-kindle-redirect?_encoding%3DUTF8%26btkr%3D1) by [Simon Singh](https://twitter.com/SLSingh), 2010. Via [Paul Downey](https://twitter.com/psd)
-* [1984](https://t.co/8nQcEYVGxI), by George Orwell, 1949. Via [Hendrik Grothuis](https://twitter.com/HendrikG)
+* [1984](https://ebooks.adelaide.edu.au/o/orwell/george/o79n/), by George Orwell, 1949. Via [Hendrik Grothuis](https://twitter.com/HendrikG)
 
 **Design**
 
@@ -53,8 +53,8 @@ The additional suggestions [I received from Twitter](https://twitter.com/maltbyp
 * [We need new patterns](https://projectsbyif.com/ideas/we-need-new-patterns), by [Sarah Gold](https://twitter.com/sarahtgold). Via [Richard Pope](https://twitter.com/richardjpope)
 * [Leading Public Design](https://policypress.co.uk/leading-public-design), by [Christian Bason](https://twitter.com/christianbason). Via [Matt Edgar](https://twitter.com/mattedgar)
 * [Most of government is mostly service design most of the time. Discuss](https://blog.mattedgar.com/2015/05/12/most-of-government-is-mostly-service-design-most-of-the-time-discuss/), by [Matt Edgar](https://twitter.com/mattedgar). Via [Honey Dacanay](https://twitter.com/honeygolightly)
-* [The Actual Problem to be Solved](https://t.co/OWsrahvsry), 2017, by [Kate Tarling](https://twitter.com/kateldn)and [Ayesha Moarif](https://twitter.com/ayeshamoarif). Via [Olivia Neal](https://twitter.com/LivNeal)
-* [The Needs of Government](https://t.co/eCkUKC244w), by [Ben Holliday](https://twitter.com/BenHolliday). Via [Paul Smith](https://twitter.com/paulmsmith)
+* [The Actual Problem to be Solved](https://docs.google.com/presentation/d/1fclyNbuiK7EicRkmcF7fO4PCQdQ8PKwFiWYnFtqOwTY/edit#slide=id.g1b2b1df49e_0_493), 2017, by [Kate Tarling](https://twitter.com/kateldn)and [Ayesha Moarif](https://twitter.com/ayeshamoarif). Via [Olivia Neal](https://twitter.com/LivNeal)
+* [The Needs of Government](http://www.hollidazed.co.uk/2017/03/10/the-needs-of-government/), by [Ben Holliday](https://twitter.com/BenHolliday). Via [Paul Smith](https://twitter.com/paulmsmith)
 * [I fought the law and the users won](https://gds.blog.gov.uk/2014/06/20/i-fought-the-law-and-the-users-won-delivering-online-voter-registration/), by [Peter Herlihy](https://gds.blog.gov.uk/author/peter-herlihy/). Via [Joe Lanman](https://twitter.com/joelanman)
 * [Simplicity,](https://www.amazon.co.uk/Simplicity-Edward-Bono/dp/0241257484) by [Edward de Bono](https://twitter.com/Edward_deBono). Via [Terence Eden](https://twitter.com/edent)
 * [Citizen interactive design](https://www.dropbox.com/s/j3harzawy6o2ic0/Cliff%2520Lampe%2520-%2520Citizen%2520Interaction%2520Design-%2520Teaching%2520HCI%2520Through%2520Service%2520%25282016%2529.pdf?dl%3D0) by [Cliff Lampe](https://twitter.com/clifflampe), 2016. Via [Andrew Schrock](https://twitter.com/aschrock)
@@ -62,7 +62,7 @@ The additional suggestions [I received from Twitter](https://twitter.com/maltbyp
 **Leadership**
 
 * [What a digital organisation looks like](https://medium.com/doteveryone/what-a-digital-organisation-looks-like-82426a210ab8), 2017, by [Janet Hughes](https://twitter.com/JanetHughes). Via [Claire-Marie](https://twitter.com/_cmfg) [Foulquier-Gazagnes](https://twitter.com/_cmfg)
-* [Digital is something you are](https://t.co/Ci1Y0yLb12), by [Giles Turnbull](https://twitter.com/gilest). Via [Chris Thorpe](https://twitter.com/jaggeree)
+* [Digital is something you are](https://gilest.org/digital-is-something-you-are.html), by [Giles Turnbull](https://twitter.com/gilest). Via [Chris Thorpe](https://twitter.com/jaggeree)
 * [Digital leadership: changing your whole approach, not just doing better digital projects](https://doteveryone.org.uk/blog/2017/02/being-an-effective-leader-in-a-digital-age-is-abou/%23sthash.dQA3ytCY.dpuf)by [Janet Hughes](https://twitter.com/JanetHughes), 2017. Via [Richard Pope](https://twitter.com/richardjpope)
 * [What if boldness were an explicit value of the civil service](https://medium.com/public-innovators-network/what-if-boldness-were-an-explicit-value-of-the-civil-service-3df6a3d2d008), by [Janet Hughes](https://twitter.com/JanetHughes), 2016. Via [Giles Turnbull](https://twitter.com/gilest)
 * [Leadership on the Line](http://hbswk.hbs.edu/archive/2952.html) by [Ronald Heifetz](https://twitter.com/RonHeifetz) and [Marty Linsky](https://twitter.com/martylinsky). Via [Matt Cain](https://twitter.com/mcaino)
@@ -80,8 +80,8 @@ The additional suggestions [I received from Twitter](https://twitter.com/maltbyp
 
 **Data**
 
-* [One year on from the general election what does the data landscape look like?](https://t.co/Ky6WuTyb4A), by [Ellen Broad](https://twitter.com/ellenbroad). Via [Sam Smith](https://twitter.com/smithsam)
-* [A manifesto for data literacy](https://t.co/ShizPFVrFk) by [Matt Locke](https://twitter.com/matlock). Via [Chris Thorpe](https://twitter.com/jaggeree)
+* [One year on from the general election what does the data landscape look like?](https://theodi.org/news/one-year-on-general-election-uk-data-landscape), by [Ellen Broad](https://twitter.com/ellenbroad). Via [Sam Smith](https://twitter.com/smithsam)
+* [A manifesto for data literacy](https://test.org.uk/2007/05/04/a-manifesto-for-data-literacy/) by [Matt Locke](https://twitter.com/matlock). Via [Chris Thorpe](https://twitter.com/jaggeree)
 * [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](http://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815/ref%3Das_li_bk_tl/?tag%3Dfastcomp08-20%26linkId%3D1b4b27aed6d9b945e3b43f2c9347a24d%26linkCode%3Dktl), by [Cathy O'Neil](https://twitter.com/mathbabedotorg). Via [Nati Carfi](https://twitter.com/naticarfi)
 * [Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World](https://www.amazon.com/Data-Goliath-Battles-Collect-Control/dp/039335217X), by [Bruce Schneier](https://twitter.com/schneierblog). Via [Nati Carfi](https://twitter.com/naticarfi)
 

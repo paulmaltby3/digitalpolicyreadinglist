@@ -1,6 +1,6 @@
 **Reading list for government policy people interested in digital**
 
-The original reading suggestions were:
+My original reading suggestions were:
 * [The Agile Manifesto](https://www.google.com/url?q=https://www.agilealliance.org/agile101/the-agile-manifesto/&sa=D&ust=1498123354921000&usg=AFQjCNHjWEJoIjTYQmAaiZQoCQ1k7lfj6A), 2001
 * [Government as a platform](https://www.google.com/url?q=http://chimera.labs.oreilly.com/books/1234000000774/ch02.html&sa=D&ust=1498123354922000&usg=AFQjCNHREsGtiI6GYWS0rfKJ3x27bUEvRg), [Tim O'Reilly](https://www.google.com/url?q=https://twitter.com/timoreilly&sa=D&ust=1498123354923000&usg=AFQjCNF-3oKe7OoHR9Q-mIAVTDyAemZ67g), 2010
 * [The Cathedral and the Bazaar](https://www.google.com/url?q=https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar&sa=D&ust=1498123354924000&usg=AFQjCNG19Vm4_1MMHYdsUX5sMA4dAGlsHg), [Eric S. Raymond](https://www.google.com/url?q=https://twitter.com/esrtweet&sa=D&ust=1498123354925000&usg=AFQjCNHTLKfDx5mGw81GN15FSeuo1j5Rkg), 1997

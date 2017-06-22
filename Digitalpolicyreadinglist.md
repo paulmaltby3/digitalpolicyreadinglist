@@ -1,4 +1,4 @@
-**Reading list for government policy people interested in digital**
+# Reading list for government policy people interested in digital
 
 My original reading suggestions were:
 * [The Agile Manifesto](https://www.agilealliance.org/agile101/the-agile-manifesto/), 2001
@@ -12,7 +12,7 @@ My original reading suggestions were:
 
 The additional suggestions [I received from Twitter](https://twitter.com/maltbyps/status/877228688009551873) after my request are set out below, and I've roughly grouped them. I'd welcome others contributing to the list and keeping it up to date. This is also a great list of people to follow, if you don't already.
 
-**Digital**
+## Digital
 
 * [What is code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) By Paul Ford, 2015. Via [Chris Thorpe](https://twitter.com/jaggeree)
 * [An introduction to Wardley value chain mapping](http://blog.gardeviance.org/2015/02/an-introduction-to-wardley-value-chain.html?m%3D1), by [Simon Wardley](https://twitter.com/swardley). Via [Paul Downey](https://twitter.com/psd) and [Richard Pope](https://twitter.com/richardjpope)
@@ -27,7 +27,8 @@ The additional suggestions [I received from Twitter](https://twitter.com/maltbyp
 * [Race Against The Machine: How the Digital Revolution is Accelerating Innovation, Driving Productivity, and Irreversibly Transforming Employment and the Economy](https://www.amazon.co.uk/Race-Against-Machine-Accelerating-Productivity-ebook/dp/B005WTR4ZI), by [Erik Brynjolfsson](https://twitter.com/erikbryn). Via [Matt Cain](https://twitter.com/mcaino)
 * [Play Anything: The Pleasure of Limits, the Uses of Boredom, and the Secret of Games](https://www.amazon.com/Play-Anything-Pleasure-Limits-Boredom/dp/0465051723), by [Ian Bogost](https://twitter.com/ibogost). Via [Nati Carfi](https://twitter.com/naticarfi)
 
-**Government digital**
+## Government digital
+
 * [Policy Making in a Digital Age](https://medium.com/code-for-america/beyond-tech-policymaking-in-a-digital-age-2776b9a17b69), by [Jennifer Pahlka](https://twitter.com/pahlkadot). Via [Honey Dacanay](https://twitter.com/honeygolightly)
 * [Can you recognise the million pound chair?](https://www.mysociety.org/2012/06/19/can-you-recognize-the-million-pound-chair/) by [Tom Steinberg](https://twitter.com/steiny), 2012. Via [Richard Pope](https://twitter.com/richardjpope)
 * [Digital government: not complicated, just hard](https://www.youtube.com/watch?v=YTJTiVL2oQ8), YouTube video by [Tom Loosemore](https://twitter.com/tomskitomski). [Via Richard Barton](https://twitter.com/CIOPortfolio)
@@ -47,7 +48,7 @@ The additional suggestions [I received from Twitter](https://twitter.com/maltbyp
 * [The Code Book: a secret history of codes and codebreaking](https://www.amazon.co.uk/dp/B003VWDOK2/ref%3Ddp-kindle-redirect?_encoding%3DUTF8%26btkr%3D1) by [Simon Singh](https://twitter.com/SLSingh), 2010. Via [Paul Downey](https://twitter.com/psd)
 * [1984](https://ebooks.adelaide.edu.au/o/orwell/george/o79n/), by George Orwell, 1949. Via [Hendrik Grothuis](https://twitter.com/HendrikG)
 
-**Design**
+## Design
 
 * [Designing Delivery](https://www.amazon.co.uk/Designing-Delivery-Rethinking-Digital-Service/dp/1491949880), by [Jeff Sussna](https://twitter.com/jeffsussna), 2015. Via [Matt Edgar](https://twitter.com/mattedgar)
 * [We need new patterns](https://projectsbyif.com/ideas/we-need-new-patterns), by [Sarah Gold](https://twitter.com/sarahtgold). Via [Richard Pope](https://twitter.com/richardjpope)
@@ -59,7 +60,7 @@ The additional suggestions [I received from Twitter](https://twitter.com/maltbyp
 * [Simplicity,](https://www.amazon.co.uk/Simplicity-Edward-Bono/dp/0241257484) by [Edward de Bono](https://twitter.com/Edward_deBono). Via [Terence Eden](https://twitter.com/edent)
 * [Citizen interactive design](https://www.dropbox.com/s/j3harzawy6o2ic0/Cliff%2520Lampe%2520-%2520Citizen%2520Interaction%2520Design-%2520Teaching%2520HCI%2520Through%2520Service%2520%25282016%2529.pdf?dl%3D0) by [Cliff Lampe](https://twitter.com/clifflampe), 2016. Via [Andrew Schrock](https://twitter.com/aschrock)
 
-**Leadership**
+## Leadership
 
 * [What a digital organisation looks like](https://medium.com/doteveryone/what-a-digital-organisation-looks-like-82426a210ab8), 2017, by [Janet Hughes](https://twitter.com/JanetHughes). Via [Claire-Marie](https://twitter.com/_cmfg) [Foulquier-Gazagnes](https://twitter.com/_cmfg)
 * [Digital is something you are](https://gilest.org/digital-is-something-you-are.html), by [Giles Turnbull](https://twitter.com/gilest). Via [Chris Thorpe](https://twitter.com/jaggeree)
@@ -69,7 +70,7 @@ The additional suggestions [I received from Twitter](https://twitter.com/maltbyp
 * [The mythical man month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month) by Fred Brooks, 1975. Via [Steve O'Connor](https://twitter.com/OOconnors)
 * [A Leader's Framework for Decision Making: the Cynefin framework](https://hbr.org/2007/11/a-leaders-framework-for-decision-making) by David J. Snowden and Mary E. Boone. Via [David Heath](https://twitter.com/dgheath21)
 
-**Politics and Digital**
+## Politics and Digital
 
 * [National Digital Conference keynote speech](https://www.gov.uk/government/speeches/national-digital-conference-2015-keynote-speech), by [Matt Hancock MP](https://twitter.com/MattHancock). Via [Peter Wells](https://twitter.com/peterkwells)
 * [There's a revolution out there - and Labour must be part of it](http://www.newstatesman.com/politics/staggers/2016/06/theres-revolution-out-there-and-labour-must-be-part-it), by [Chi Onwurah MP](https://twitter.com/ChiOnwurah), 2016. Via [Peter Wells](https://twitter.com/peterkwells)
@@ -78,14 +79,14 @@ The additional suggestions [I received from Twitter](https://twitter.com/maltbyp
 * [The dictator's handbook: why bad behaviour is almost always good politics](https://www.amazon.co.uk/dp/B06XBY3XJV/ref%3Ddp-kindle-redirect?_encoding%3DUTF8%26btkr%3D1), by Bruce Bueno de Mesquita. Via [Represent](https://twitter.com/RepresentLive)
 * [The New Urban Crisis: How Our Cities Are Increasing Inequality, Deepening Segregation, and Failing the Middle Class – and What We Can Do About It](https://www.amazon.com/New-Urban-Crisis-Segregation-Class/dp/0465079741/ref%3Dsr_1_1?ie%3DUTF8%26qid%3D1494855529%26sr%3D8-1%26keywords%3DThe%2BNew%2BUrban%2BCrisis%253A%2BHow%2BOur%2BCities%2BAre%2BIncreasing%2BInequality%252C%2BDeepening%2BSegregation%252C%2Band%2BFailing%2Bthe%2BMiddle%2BClass--and%2BWhat%2BWe%2BCan%2BDo%2BAbout%2BIt), by [Richard Florida](https://twitter.com/Richard_Florida). Via [Nati Carfi](https://twitter.com/naticarfi)
 
-**Data**
+## Data
 
 * [One year on from the general election what does the data landscape look like?](https://theodi.org/news/one-year-on-general-election-uk-data-landscape), by [Ellen Broad](https://twitter.com/ellenbroad). Via [Sam Smith](https://twitter.com/smithsam)
 * [A manifesto for data literacy](https://test.org.uk/2007/05/04/a-manifesto-for-data-literacy/) by [Matt Locke](https://twitter.com/matlock). Via [Chris Thorpe](https://twitter.com/jaggeree)
 * [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](http://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815/ref%3Das_li_bk_tl/?tag%3Dfastcomp08-20%26linkId%3D1b4b27aed6d9b945e3b43f2c9347a24d%26linkCode%3Dktl), by [Cathy O'Neil](https://twitter.com/mathbabedotorg). Via [Nati Carfi](https://twitter.com/naticarfi)
 * [Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World](https://www.amazon.com/Data-Goliath-Battles-Collect-Control/dp/039335217X), by [Bruce Schneier](https://twitter.com/schneierblog). Via [Nati Carfi](https://twitter.com/naticarfi)
 
-**Government**
+## Government
 
 * [The Whitehall Effect:](https://www.amazon.co.uk/d/cka/Whitehall-Effect-Became-Enemy-Great-Public-Services/1909470457) [How Whitehall Became the Enemy of Great Public Services - and What We Can Do About it](https://www.amazon.co.uk/d/cka/Whitehall-Effect-Became-Enemy-Great-Public-Services/1909470457), by John Seddon. Via [John Peart](https://twitter.com/johnpeart) and [Matt Cain](https://twitter.com/mcaino)
 * [The Blunders of our Governments](https://www.amazon.co.uk/dp/B00MY8S5MQ/ref%3Ddp-kindle-redirect?_encoding%3DUTF8%26btkr%3D1), by Anthony King. Via [Stefan Czerniawski](https://twitter.com/pubstrat)

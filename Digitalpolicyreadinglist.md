@@ -29,6 +29,7 @@ The additional suggestions [I received from Twitter](https://twitter.com/maltbyp
 * [Homo Deus](https://www.amazon.co.uk/dp/B019CGXTP0/ref%3Ddp-kindle-redirect?_encoding%3DUTF8%26btkr%3D1), by [Yuval Noah Harari](https://twitter.com/harari_yuval); Via [Stefan Webb](https://twitter.com/Stef_W)
 * [Race Against The Machine: How the Digital Revolution is Accelerating Innovation, Driving Productivity, and Irreversibly Transforming Employment and the Economy](https://www.amazon.co.uk/Race-Against-Machine-Accelerating-Productivity-ebook/dp/B005WTR4ZI), by [Erik Brynjolfsson](https://twitter.com/erikbryn). Via [Matt Cain](https://twitter.com/mcaino)
 * [Play Anything: The Pleasure of Limits, the Uses of Boredom, and the Secret of Games](https://www.amazon.com/Play-Anything-Pleasure-Limits-Boredom/dp/0465051723), by [Ian Bogost](https://twitter.com/ibogost). Via [Nati Carfi](https://twitter.com/naticarfi)
+* [The Cluetrain Manifesto](http://www.cluetrain.com/), by Christopher Locke, Rick Levine, Doc Searles, David Weinberger, 1999. Via [Bill Roberts](https://twitter.com/billroberts)
 
 ## Government digital
 

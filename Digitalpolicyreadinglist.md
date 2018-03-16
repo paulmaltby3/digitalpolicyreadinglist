@@ -2,7 +2,7 @@
 
 My original reading suggestions were:
 * [The Agile Manifesto](https://www.agilealliance.org/agile101/the-agile-manifesto/), 2001
-* [Government as a platform](http://chimera.labs.oreilly.com/books/1234000000774/ch02.html), [Tim O'Reilly](https://twitter.com/timoreilly), 2010
+* [Government as a platform](https://www.mitpressjournals.org/doi/pdf/10.1162/INOV_a_00056), [Tim O'Reilly](https://twitter.com/timoreilly), 2010
 * [The Cathedral and the Bazaar](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar), [Eric S. Raymond](https://twitter.com/esrtweet), 1997
 * [Software is eating the world](https://vincentkeunen.files.wordpress.com/2011/12/marc-andreessen-on-why-software-is-eating-the-world.pdf), [Marc Andreessen](https://twitter.com/pmarca), 2011
 * [New Power](https://hbr.org/2014/12/understanding-new-power), [Jeremy Heimans](https://twitter.com/jeremyheimans) and [Henry Timms](https://twitter.com/henrytimms), 2014
